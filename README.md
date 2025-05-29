@@ -7,7 +7,7 @@ DevOps
 
 ## 🛠️ Compétences clés
 - **Langages & Scripting** : Python, PowerShell, Bash, PHP, C, HTML/CSS
-- **Systèmes & Réseaux** : Windows Server, Linux, VLAN, QoS
+- **Systèmes & Réseaux** : Windows Server, Linux Server (Debian/Ubuntu), VLAN, routage, switch, DHCP, DNS, configuration de failover...
 - **Cloud & Admin** : Microsoft Azure, Entra ID, Microsoft Intune
 - **Outils & Logiciels** : Visual Studio Code, GitHub, GLPI, Wireshark, FL Studio...
 
