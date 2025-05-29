@@ -12,11 +12,12 @@ DevOps
 - **Outils & Logiciels** : Visual Studio Code, GitHub, GLPI, Wireshark...
 
 ## 📁 Projets en cours
-- 🎥 **Projet MA-3 – Serveur de streaming vidéo IP**  
-  Interface de gestion en Python & site de commande PHP (en équipe de 3 – projet de fin d’année)
+- 🎥 **Projet MA-3 – Serveur de streaming vidéo IP** (en équipe de 3 – projet de fin d’année)
+  Interface de gestion en Python & site de commande PHP 
 
-- 💼 **Projet d’automatisation IT (PowerShell, Intune, GLPI)**  
-  Réalisé en entreprise – scripts onboarding/offboarding, déploiement, gestion via Graph API (projet technique en entreprise)
+- 💼 **Projet d’automatisation IT (PowerShell, Intune, GLPI)** (projet technique en entreprise)
+  Réalisé en entreprise – scripts onboarding/offboarding, déploiement, gestion via Graph API
+  
 ## 📫 Me contacter
 - ✉️ bohoui.marcus@outlook.fr  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marcus-bohoui)
