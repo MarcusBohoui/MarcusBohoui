@@ -13,10 +13,10 @@ DevOps
 
 ## 📁 Projets en cours
 - 🎥 **Projet MA-3 – Serveur de streaming vidéo IP** (en équipe de 3 – projet de fin d’année)
-  Interface de gestion en Python & site de commande PHP 
+  - Interface de gestion en Python & site de commande PHP 
 
 - 💼 **Projet d’automatisation IT (PowerShell, Intune, GLPI)** (projet technique en entreprise)
-  Réalisé en entreprise – scripts onboarding/offboarding, déploiement, gestion via Graph API
+  - Réalisé en entreprise – scripts onboarding/offboarding, déploiement, gestion via Graph API
   
 ## 📫 Me contacter
 - ✉️ bohoui.marcus@outlook.fr  
