@@ -2,8 +2,7 @@
 
 🎓 Étudiant admis en Master 1 IRS (Ingénierie des Réseaux et Systèmes)  
 🔧 Passionné par l’automatisation IT, le DevOps, les systèmes et le cloud  
-🤝 Actuellement en recherche d'une alternance de 1 à 2 ans (3s/1s) dans l’infrastructure, des systèmes, du cloud ou du
-DevOps
+🤝 Actuellement en recherche d’une alternance de 1 à 2 ans (3s/1s) dans l’infrastructure, les systèmes, le cloud ou le DevOps.
 
 ## 🛠️ Compétences clés
 - **Langages & Scripting** : Python, PowerShell, Bash, PHP, C, HTML/CSS
