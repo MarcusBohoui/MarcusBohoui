@@ -11,8 +11,8 @@ DevOps
 - **Cloud & Admin** : Microsoft Azure, Entra ID, Microsoft Intune
 - **Outils & Logiciels** : Visual Studio Code, GitHub, GLPI, Wireshark...
 
-## 📁 Projets en cours
-- 🎥 **Projet MA-3 – Serveur de streaming vidéo IP** (en équipe de 3 – projet de fin d’année)
+## 📁 Projets
+- 🎥 **Projet MA-3 – Serveur de streaming vidéo IP** (en équipe de 3 – projet de fin d’année) en cours
 
 - 💼 **Projet d’automatisation IT (PowerShell, Intune, GLPI)** (projet technique en entreprise)
   
